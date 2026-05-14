@@ -1,125 +1,70 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
-	<Document uuid="6f6d9ce4-4bc3-4f4c-a5c6-9ccc1d67275e">
+	<InformationRegister uuid="4c07a510-a21d-46b9-8056-3968c2bb6b94">
 		<InternalInfo>
-			<xr:GeneratedType name="DocumentObject.ОченьНужныйДокумент" category="Object">
-				<xr:TypeId>26247fe5-a2bb-4e94-90b0-2806b78fad69</xr:TypeId>
-				<xr:ValueId>683690c2-c4f2-473a-9e28-7b9f1a5dd1e9</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.ОченьНужныйРегистр" category="Record">
+				<xr:TypeId>335979ac-85ec-4b96-8a00-b7d00cf3c4d8</xr:TypeId>
+				<xr:ValueId>17d746dd-a0b3-4fea-87ef-e3cad2b5725f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentRef.ОченьНужныйДокумент" category="Ref">
-				<xr:TypeId>bb73e1a9-658b-446d-a53d-751a1d2c9678</xr:TypeId>
-				<xr:ValueId>39e787c5-fbea-444f-a67c-deccda20cecd</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.ОченьНужныйРегистр" category="Manager">
+				<xr:TypeId>7e0bb84c-8dab-425b-8ec2-2587ba894cc5</xr:TypeId>
+				<xr:ValueId>2e6a4cbb-a2bd-4327-873d-d4ffae14a04b</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentSelection.ОченьНужныйДокумент" category="Selection">
-				<xr:TypeId>29baacc9-ccc4-4c1f-9682-90db04e78681</xr:TypeId>
-				<xr:ValueId>f598280c-35a6-4884-8427-f8b265978d88</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.ОченьНужныйРегистр" category="Selection">
+				<xr:TypeId>c23f9fd6-8330-44cb-b6d9-408d5e8b5d6c</xr:TypeId>
+				<xr:ValueId>dba97a2f-e560-4acc-9bb7-06bdf4b6934e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentList.ОченьНужныйДокумент" category="List">
-				<xr:TypeId>13160c53-5c5d-435c-8d6a-cc05a3d3cf96</xr:TypeId>
-				<xr:ValueId>9ee0cf03-8380-4471-bce3-eaae0f5c49d6</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.ОченьНужныйРегистр" category="List">
+				<xr:TypeId>64659ffb-bd80-4f39-8a68-a980292cd599</xr:TypeId>
+				<xr:ValueId>43eab1a4-d44a-4733-b144-f617eb0a4c38</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentManager.ОченьНужныйДокумент" category="Manager">
-				<xr:TypeId>f4309ca9-7fe7-4032-8505-c15508f3cacb</xr:TypeId>
-				<xr:ValueId>94faf3cf-97fc-4a79-aa06-ea2a026f92a8</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ОченьНужныйРегистр" category="RecordSet">
+				<xr:TypeId>4818d55e-c319-4690-8a60-6e5c5dd0cb2d</xr:TypeId>
+				<xr:ValueId>3c0cb831-9a8e-4f49-9c40-0086e5d48900</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ОченьНужныйРегистр" category="RecordKey">
+				<xr:TypeId>f0c62170-54f8-4404-8824-ecdb79c28d0b</xr:TypeId>
+				<xr:ValueId>d2ab14a5-47b7-4f20-952a-f9e6c9002db6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ОченьНужныйРегистр" category="RecordManager">
+				<xr:TypeId>2ee58cf1-8168-4cf5-82d5-84b23f1e647b</xr:TypeId>
+				<xr:ValueId>31175860-6fca-4488-8d4d-13ff3ac017a6</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ОченьНужныйДокумент</Name>
+			<Name>ОченьНужныйРегистр</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Очень нужный документ</v8:content>
+					<v8:content>Очень нужный регистр</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<UseStandardCommands>true</UseStandardCommands>
-			<Numerator/>
-			<NumberType>String</NumberType>
-			<NumberLength>9</NumberLength>
-			<NumberAllowedLength>Variable</NumberAllowedLength>
-			<NumberPeriodicity>Nonperiodical</NumberPeriodicity>
-			<CheckUnique>true</CheckUnique>
-			<Autonumbering>true</Autonumbering>
-			<Characteristics/>
-			<BasedOn/>
-			<InputByString>
-				<xr:Field>Document.ОченьНужныйДокумент.StandardAttribute.Number</xr:Field>
-			</InputByString>
-			<CreateOnInput>Use</CreateOnInput>
-			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
-			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
-			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
+			<EditType>InDialog</EditType>
+			<DefaultRecordForm/>
 			<DefaultListForm/>
-			<DefaultChoiceForm/>
-			<AuxiliaryObjectForm/>
+			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
-			<AuxiliaryChoiceForm/>
-			<Posting>Allow</Posting>
-			<RealTimePosting>Allow</RealTimePosting>
-			<RegisterRecordsDeletion>AutoDeleteOnUnpost</RegisterRecordsDeletion>
-			<RegisterRecordsWritingOnPost>WriteSelected</RegisterRecordsWritingOnPost>
-			<SequenceFilling>AutoFill</SequenceFilling>
-			<RegisterRecords>
-				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ОченьНужныйРегистр</xr:Item>
-			</RegisterRecords>
-			<PostInPrivilegedMode>true</PostInPrivilegedMode>
-			<UnpostInPrivilegedMode>true</UnpostInPrivilegedMode>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>RecorderSubordinate</WriteMode>
+			<MainFilterOnPeriod>false</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
-			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>
-			<FullTextSearch>Use</FullTextSearch>
-			<ObjectPresentation/>
-			<ExtendedObjectPresentation/>
+			<FullTextSearch>DontUse</FullTextSearch>
+			<EnableTotalsSliceFirst>false</EnableTotalsSliceFirst>
+			<EnableTotalsSliceLast>false</EnableTotalsSliceLast>
+			<RecordPresentation/>
+			<ExtendedRecordPresentation/>
 			<ListPresentation/>
 			<ExtendedListPresentation/>
 			<Explanation/>
-			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 			<DataHistory>DontUse</DataHistory>
 			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="231aea3c-3cf4-465e-8ae2-4749e0d9e8f3">
-				<Properties>
-					<Name>ОченьНужныйСправочник</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Очень нужный справочник</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>cfg:CatalogRef.ОченьНужныйСправочник</v8:Type>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-					<DataHistory>Use</DataHistory>
-				</Properties>
-			</Attribute>
-			<Attribute uuid="ff898ca7-8f8c-4f8a-b3f4-c2d52c26c0ed">
+			<Resource uuid="1524bfe4-e496-4d2c-9af4-003d63c45bf2">
 				<Properties>
 					<Name>Количество</Name>
 					<Synonym>
@@ -162,7 +107,50 @@
 					<FullTextSearch>Use</FullTextSearch>
 					<DataHistory>Use</DataHistory>
 				</Properties>
-			</Attribute>
+			</Resource>
+			<Dimension uuid="fb46c09c-52d4-4387-93e9-2774e8891f06">
+				<Properties>
+					<Name>ОченьНужныйСправочник</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Очень нужный справочник</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ОченьНужныйСправочник</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Master>false</Master>
+					<MainFilter>true</MainFilter>
+					<DenyIncompleteValues>false</DenyIncompleteValues>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+					<TypeReductionMode>TransformValues</TypeReductionMode>
+				</Properties>
+			</Dimension>
 		</ChildObjects>
-	</Document>
+	</InformationRegister>
 </MetaDataObject>
